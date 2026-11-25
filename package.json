@@ -1,0 +1,14 @@
+
+{
+  "name": "vv-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WhatsApp VV Media Processing API",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
